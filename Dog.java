@@ -3,7 +3,7 @@ ass Dog {
 	int age;
 	String helloWorld
 	String color;
-
+	String Test2;
 	void barking() {
 		System.out.println("barking");
 	}
