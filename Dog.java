@@ -1,6 +1,7 @@
 ass Dog {
 	String breed;
 	int age;
+	String helloWorld
 	String color;
 
 	void barking() {
